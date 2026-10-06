@@ -1,74 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:0369A1&section=header&text=Junaid%20Arif&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=21&descAlignY=58&animation=fadeIn" width="100%"/>
+# Junaid Arif
+
+### Full-Stack Web Developer · Laravel & ASP.NET Core
+
+**Building practical web applications with clean interfaces, solid backend architecture, and reliable databases.**
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Laravel+%7C+PHP+%7C+MySQL;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Real-World+Web+Applications;Clean+UI+%7C+Strong+Backend+%7C+Solid+Database;Currently+Exploring+AI-Powered+Applications" />
-
-<br><br>
-
 <a href="https://muhammad-junaid-portfolio-ten.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/arifjunaid039">
-<img src="https://img.shields.io/badge/💻_GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:arifjunaid039@gmail.com">
-<img src="https://img.shields.io/badge/✉️_Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=arifjunaid039&label=Profile%20Views&color=0369A1&style=flat-square"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Laravel+%7C+PHP+%7C+MySQL;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Real-World+Web+Applications;Learning+AI-Powered+Development" />
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Junaid
+## 👋 About Me
 
-I'm a **Full-Stack Web Developer** and an **Aptech student** focused on building real-world, database-driven web applications.
+I'm a **Full-Stack Web Developer** and **Aptech student** focused on building real-world web applications.
 
-I enjoy working across the complete development process — from **frontend UI and backend logic to authentication, databases and admin panels**.
+I work across the full development cycle — from **frontend interfaces and backend logic to authentication, database design and admin systems**.
 
-```text
-Frontend       → HTML · CSS · JavaScript · Bootstrap
-Backend        → PHP · Laravel · C# · ASP.NET Core
-Databases      → MySQL · SQL Server
-CMS            → WordPress · WooCommerce
-Currently      → AI-Powered Full-Stack Development
-```
+* 🔭 Building practical Laravel and ASP.NET Core applications
+* 🧩 Interested in backend architecture and database-driven systems
+* 🚀 Built projects such as **BackToYou** and **CampusCoin**
+* 🌱 Currently expanding my skills in **C#, ASP.NET Core and AI development**
+* 🎯 Looking for opportunities to work on real-world software projects
 
 ---
 
-# 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap,alpinejs" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mssql" />
 </p>
 
-**MySQL** — Laravel / PHP applications and relational database development.
+<p>
+<b>MySQL</b> · Laravel / PHP applications
+<br>
+<b>Microsoft SQL Server</b> · C# / ASP.NET Core applications
+</p>
 
-**Microsoft SQL Server** — C# / ASP.NET Core applications and SQL development.
-
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,wordpress" />
@@ -76,65 +77,61 @@ Currently      → AI-Powered Full-Stack Development
 
 ---
 
-# 💼 What I Build
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Frontend
+### 🔎 BackToYou
 
-Responsive and modern interfaces using:
+Lost & Found platform for universities, colleges, hostels and communities.
 
-`HTML` `CSS` `JavaScript` `Bootstrap`
+**Features**
+
+* Authentication
+* Lost & Found listings
+* Claim & verification
+* Chat
+* Notifications
+* Community features
+* Admin panel
+
+**Stack**
+
+`Laravel` `PHP` `MySQL` `Bootstrap` `Alpine.js`
+
+<br>
+
+<a href="https://github.com/arifjunaid039/BackToYou">
+<img src="https://img.shields.io/badge/View_Project-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Backend
+### 💰 CampusCoin
 
-Database-driven applications using:
+Student budgeting and financial education platform built as a **TechWiz 7 team project**.
 
-`PHP` `Laravel` `C#` `ASP.NET Core`
+**Features**
 
-</td>
-</tr>
+* Income & expense tracking
+* Categories
+* Budgets & goals
+* Reports & insights
+* Admin functionality
 
-<tr>
-<td>
+**Stack**
 
-### 🔐 Authentication
+`Laravel` `PHP` `MySQL`
 
-Login, registration, sessions, roles and admin access.
+<br>
 
-</td>
-
-<td>
-
-### 🗄️ Database Systems
-
-Relational database design and CRUD operations using:
-
-`MySQL` `SQL Server`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 👨‍💼 Admin Panels
-
-Dashboards, management systems, CRUD operations and role-based access.
-
-</td>
-
-<td>
-
-### 🤖 AI Applications
-
-Currently exploring AI assistants and AI-powered features for web applications.
+<a href="https://github.com/bilalyaseen1128/CampusCoin">
+<img src="https://img.shields.io/badge/View_Project-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -142,162 +139,90 @@ Currently exploring AI assistants and AI-powered features for web applications.
 
 ---
 
-# 🚀 Featured Projects
+## 🧪 Currently Building
 
-## 🔎 BackToYou
+### LabAutomation
 
-**Lost & Found platform for universities, colleges, hostels and communities.**
+A **Laravel-based laboratory management and automation system**.
 
-### Features
+**Working on**
 
-* 🔐 User authentication
-* 📦 Lost & found item posting
-* ✅ Claim & verification system
-* 💬 Chat functionality
-* 🔔 Notifications
-* 👥 Community features
-* 👨‍💼 Admin panel
+`Authentication` · `Admin Panel` · `CRUD` · `Database Management` · `Dashboard` · `User Management`
 
-**Tech:** `Laravel` `PHP` `MySQL` `Bootstrap 5` `Alpine.js`
+**Stack**
 
-<a href="https://github.com/arifjunaid039/BackToYou">
-<img src="https://img.shields.io/badge/View_Project-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Laravel` `PHP` `MySQL` `Blade` `JavaScript`
 
 ---
 
-## 💰 CampusCoin
+## 💼 Other Projects
 
-**Student budgeting and financial education platform developed as a TechWiz 7 team project.**
-
-### Features
-
-* 💵 Income & expense tracking
-* 📊 Budget management
-* 🎯 Financial goals
-* 🏷️ Categories
-* 📈 Reports & insights
-* 👨‍💼 Admin functionality
-
-**Tech:** `Laravel` `PHP` `MySQL`
-
-<a href="https://github.com/bilalyaseen1128/CampusCoin">
-<img src="https://img.shields.io/badge/View_Project-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🧪 LabAutomation
-
-**Laravel-based laboratory management and automation system.**
-
-### Current Focus
-
-* 🔐 User & admin authentication
-* 👨‍💼 Admin dashboard
-* 🧪 Laboratory management
-* 📋 Data management
-* 🗄️ MySQL database integration
-* 🎨 Responsive UI
-
-**Tech:** `Laravel` `PHP` `MySQL` `Blade` `JavaScript`
-
----
-
-# 📂 Other Projects
-
-| Project                                 | Description                            | Technologies            |
+| Project                                 | Description                            | Stack                   |
 | :-------------------------------------- | :------------------------------------- | :---------------------- |
 | 🧪 **Corona Test & Vaccination System** | Test and vaccination management system | Laravel · PHP · MySQL   |
 | 🛋️ **Oxford Sofa**                     | Furniture business website             | HTML · CSS · JavaScript |
-| 🏍️ **Wheels Motor**                    | Vehicle / motor website                | HTML · CSS · JavaScript |
+| 🏍️ **Wheels Motor**                    | Motor / vehicle website                | HTML · CSS · JavaScript |
 
 ---
 
-# 📈 My Developer Journey
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-PHP + MySQL
-     ↓
-Laravel
-     ↓
-Full-Stack Applications
-     ↓
-C# + ASP.NET Core
-     ↓
-SQL Server
-     ↓
-AI-Powered Applications
-```
-
----
-
-# 🌱 Currently Learning
+## 📊 GitHub Stats
 
 <div align="center">
 
-### C# · ASP.NET Core · SQL Server · AI Development
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github"/>
 
-</div>
-
-I'm expanding my skills from the Laravel/PHP ecosystem into the **.NET ecosystem**, while exploring how AI can be integrated into modern web applications.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arifjunaid039&hide_border=true&background=020617&stroke=0F172A&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arifjunaid039&bg_color=020617&color=38BDF8&line=0369A1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=arifjunaid039&hide_border=true&background=0D1117&stroke=1D4ED8&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+## 🌱 Currently Learning
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql" />
+
+<br><br>
+
+**C# · ASP.NET Core · SQL Server · AI-Powered Applications**
+
+</div>
+
+I'm currently expanding from the **Laravel/PHP ecosystem into .NET development**, while exploring how AI can be integrated into modern full-stack applications.
+
+---
+
+## 🎯 Development Focus
+
 ```text
-Build Real Projects
+Build real-world applications
         ↓
-Write Clean Code
+Write clean & maintainable code
         ↓
-Design Better Databases
+Design reliable databases
         ↓
 Improve UI / UX
         ↓
-Learn ASP.NET Core
+Strengthen backend architecture
         ↓
-Explore AI
-        ↓
-Build Something Better
+Explore AI integration
 ```
-
-</div>
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
 <div align="center">
 
 <a href="https://muhammad-junaid-portfolio-ten.vercel.app/">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-0369A1?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-0369A1?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 <br><br>
@@ -308,30 +233,28 @@ Build Something Better
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm open to **real-world projects, collaborations, internships and development opportunities.**
+**Open to real-world projects, collaborations, internships and development opportunities.**
 
-<br>
+<br><br>
+
+<a href="https://muhammad-junaid-portfolio-ten.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+</a>
 
 <a href="https://github.com/arifjunaid039">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:arifjunaid039@gmail.com">
-<img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://muhammad-junaid-portfolio-ten.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0369A1?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
 
-### ⚡ Build. Break. Learn. Improve.
+### ⚡ Build · Learn · Improve · Ship
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0369A1,50:0F172A,100:020617&section=footer" width="100%"/>
