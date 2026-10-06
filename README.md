@@ -1,199 +1,143 @@
-# 👋 Hi, I'm Junaid Arif
+# Junaid Arif
 
 ### Frontend & Laravel Developer
 
-I build practical, database-driven web applications with **Laravel, PHP, MySQL, JavaScript, Bootstrap, C# and ASP.NET Core**.
+I build modern, practical web applications with a focus on **Laravel, PHP, MySQL, JavaScript, and responsive frontend development**.
 
-I enjoy turning ideas into useful products with clean interfaces, structured backend systems, authentication, CRUD workflows and role-based dashboards.
+Currently expanding into **C# and ASP.NET Core** while working on real-world projects and improving my software engineering fundamentals.
 
 ---
 
-## 🚀 About Me
+## About
 
 * 💻 Frontend & Laravel Developer
-* 🔥 Building web applications with PHP & Laravel
-* 🧪 Currently working on **LabAutomation**
-* 🔎 Built **BackToYou — a Lost & Found Platform**
-* 🎓 Learning C#, ASP.NET Core & SQL Server
-* 🌱 Exploring AI-assisted full-stack development
-* 🗄️ Interested in database-driven applications
-* 🔐 Interested in authentication, admin panels and role-based systems
-* 🤝 Open to internships, freelance projects and collaborations
+* 🔨 Building web applications and database-driven systems
+* 🧩 Interested in clean UI, backend architecture and practical solutions
+* 🧪 Currently working on Laravel-based application projects
+* 🌱 Learning C# and ASP.NET Core
+* 📚 Continuously improving my development and problem-solving skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Frontend
+**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+HTML5 · CSS3 · JavaScript · Bootstrap · jQuery
 
-### Backend
+**Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+PHP · Laravel · C#
 
-### Database
+**Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+MySQL · SQL
 
-### Tools
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+Git · GitHub · VS Code · Visual Studio
+
+**Currently Exploring**
+
+ASP.NET Core · TypeScript
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🔎 BackToYou
+### BackToYou
 
-**Lost & Found Management Platform**
+A lost & found platform designed to help users report, discover and recover lost items through a structured digital workflow.
 
-A community-focused platform for reporting, discovering, claiming and verifying lost items.
+**Key areas:** Authentication · Lost & Found · Claims · User Management · Database Management
 
-**Features**
-
-* Lost & Found item posting
-* Item images and details
-* Claim & verification workflow
-* Authentication
-* Notifications
-* Community-based searching
-* Admin management
-
-**Built with:** Laravel · PHP · MySQL · Bootstrap · Alpine.js
+**Stack:** Laravel · PHP · MySQL · Bootstrap · JavaScript
 
 ---
 
-### 🧪 LabAutomation
+### LabAutomation
 
-**Laboratory Management & Automation System**
+A laboratory management and product testing system built around structured workflows, user roles and administrative operations.
 
-A Laravel-based platform focused on laboratory workflows, product testing, user management and administrative operations.
+**Key areas:** Product Testing · Tester Panel · Admin Panel · Authentication · CRUD · Role Management
 
-**Core areas**
-
-* Authentication
-* Role-based access
-* Admin panel
-* Tester panel
-* Product testing
-* User management
-* CRUD operations
-* Database management
-* Dashboard systems
-
-**Built with:** Laravel · PHP · MySQL · Blade · Bootstrap · JavaScript
+**Stack:** Laravel · PHP · MySQL · Blade · Bootstrap · JavaScript
 
 ---
 
-### 💰 CampusCoin
+### CampusCoin
 
-**Student Budgeting & Financial Management Platform**
+A student-focused financial management platform designed around budgeting and managing financial activities.
 
-A student-focused platform designed to help manage financial activities and budgeting.
-
-**Built with:** Laravel · PHP · MySQL · Blade
+**Stack:** Laravel · PHP · MySQL · Blade
 
 ---
 
-### 🧪 Cognizance
+### Cognizance
 
-**COVID Testing & Vaccination Management System**
+A web-based COVID testing and vaccination management system for organizing testing, vaccination and user records.
 
-A database-driven application for managing COVID testing, vaccination records, patient information and administrative operations.
-
-**Built with:** PHP · MySQL · HTML · CSS · JavaScript · Bootstrap
+**Stack:** PHP · MySQL · HTML · CSS · JavaScript · Bootstrap
 
 ---
 
-## 📚 Currently Learning
+### Oxford Sofas
+
+A responsive furniture business website focused on product presentation, modern UI and customer-oriented design.
+
+**Stack:** HTML · CSS · JavaScript · Bootstrap
+
+---
+
+## What I Work On
 
 ```text
-Laravel          ████████████████████
-PHP              ████████████████████
-MySQL            ██████████████████░░
-JavaScript       ████████████████░░░░
-C#               ████████████░░░░░░░░
-ASP.NET Core     ██████████░░░░░░░░░░
-SQL Server       ██████████░░░░░░░░░░
-TypeScript       ████████░░░░░░░░░░░░
-AI Development   ████████░░░░░░░░░░░░
+Web Development
+        │
+        ├── Frontend Development
+        ├── Laravel Applications
+        ├── PHP Backend Development
+        ├── Database-Driven Systems
+        ├── Authentication & Authorization
+        └── Admin & Management Panels
 ```
 
 ---
 
-## 🎯 Current Focus
+## Development Focus
 
-```text
-Laravel + PHP
-       ↓
-MySQL + Database Design
-       ↓
-JavaScript + TypeScript
-       ↓
-C# + ASP.NET Core
-       ↓
-AI-Assisted Full-Stack Development
-```
+I'm currently focused on building stronger foundations in:
+
+* Laravel & PHP
+* MySQL & SQL
+* JavaScript
+* C#
+* ASP.NET Core
+* TypeScript
+* Git & version control
+* Software development practices
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## Connect
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arifjunaid039&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <a href="https://github.com/arifjunaid039">
+    <img src="https://img.shields.io/badge/GitHub-arifjunaid039-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-📧 **Email:** [arifjunaid039@gmail.com](mailto:arifjunaid039@gmail.com)
-
-💼 **LinkedIn:** [Junaid Arif](https://www.linkedin.com/in/junaid-arif-350b723b9/)
-
-🌐 **Portfolio:** [My Portfolio](https://github.com/arifjunaid039/Muhammad-Junaid-portfolio)
-
-🐙 **GitHub:** [@arifjunaid039](https://github.com/arifjunaid039)
-
----
-
-## 💡 Developer Philosophy
-
-> Build useful things.
-> Learn continuously.
-> Improve every day.
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Building. Learning. Improving.</i>
 </p>
