@@ -1,143 +1,212 @@
-# Junaid Arif
+# 👋 Hey, I'm Junaid Arif
 
-### Frontend & Laravel Developer
+### 💻 Frontend & Laravel Developer
 
-I build modern, practical web applications with a focus on **Laravel, PHP, MySQL, JavaScript, and responsive frontend development**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-Currently expanding into **C# and ASP.NET Core** while working on real-world projects and improving my software engineering fundamentals.
+I build **modern, practical and database-driven web applications**, focusing on clean interfaces, structured backend systems and real-world solutions.
 
----
-
-## About
-
-* 💻 Frontend & Laravel Developer
-* 🔨 Building web applications and database-driven systems
-* 🧩 Interested in clean UI, backend architecture and practical solutions
-* 🧪 Currently working on Laravel-based application projects
-* 🌱 Learning C# and ASP.NET Core
-* 📚 Continuously improving my development and problem-solving skills
+Currently expanding my development skills into **C# and ASP.NET Core**.
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-**Frontend**
+💻 **Frontend & Laravel Developer**
 
-HTML5 · CSS3 · JavaScript · Bootstrap · jQuery
+🔧 Building practical web applications
 
-**Backend**
+🗄️ Working with relational databases
 
-PHP · Laravel · C#
+🧩 Interested in backend architecture and clean UI
 
-**Database**
+🧪 Building Laravel-based systems
 
-MySQL · SQL
+🌱 Currently learning **C# & ASP.NET Core**
 
-**Tools**
-
-Git · GitHub · VS Code · Visual Studio
-
-**Currently Exploring**
-
-ASP.NET Core · TypeScript
+📚 Always learning and improving
 
 ---
 
-## Featured Projects
+## 🛠️ Technologies & Tools
 
-### BackToYou
+### 🎨 Frontend
 
-A lost & found platform designed to help users report, discover and recover lost items through a structured digital workflow.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+</p>
 
-**Key areas:** Authentication · Lost & Found · Claims · User Management · Database Management
+### ⚙️ Backend
 
-**Stack:** Laravel · PHP · MySQL · Bootstrap · JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" />
+</p>
 
----
+### 🗄️ Database
 
-### LabAutomation
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-A laboratory management and product testing system built around structured workflows, user roles and administrative operations.
+### 🔧 Tools
 
-**Key areas:** Product Testing · Tester Panel · Admin Panel · Authentication · CRUD · Role Management
-
-**Stack:** Laravel · PHP · MySQL · Blade · Bootstrap · JavaScript
-
----
-
-### CampusCoin
-
-A student-focused financial management platform designed around budgeting and managing financial activities.
-
-**Stack:** Laravel · PHP · MySQL · Blade
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 ---
 
-### Cognizance
+## 🌟 Featured Projects
 
-A web-based COVID testing and vaccination management system for organizing testing, vaccination and user records.
+### 🔎 BackToYou
 
-**Stack:** PHP · MySQL · HTML · CSS · JavaScript · Bootstrap
+**Lost & Found Platform**
+
+A platform designed to help users report, discover and recover lost items through a structured digital workflow.
+
+**Features**
+
+* 🔐 Authentication
+* 📦 Lost & Found management
+* 📋 Claim workflow
+* 👤 User management
+* 🗄️ Database-driven architecture
+* 📊 Management dashboards
+
+**Built with**
+
+`Laravel` `PHP` `MySQL` `Bootstrap` `JavaScript`
 
 ---
 
-### Oxford Sofas
+### 🧪 LabAutomation
 
-A responsive furniture business website focused on product presentation, modern UI and customer-oriented design.
+**Laboratory Management & Product Testing System**
 
-**Stack:** HTML · CSS · JavaScript · Bootstrap
+A Laravel-based system designed around laboratory workflows, product testing and role-based management.
+
+**Core areas**
+
+* 🧪 Product testing
+* 👨‍🔬 Tester panel
+* 👨‍💼 Admin panel
+* 🔐 Authentication
+* 👥 Role management
+* 📋 CRUD operations
+* 🗄️ Database management
+
+**Built with**
+
+`Laravel` `PHP` `MySQL` `Blade` `Bootstrap` `JavaScript`
 
 ---
 
-## What I Work On
+### 💰 CampusCoin
+
+**Student Financial Management Platform**
+
+A student-focused application designed around budgeting and managing financial activities.
+
+**Built with**
+
+`Laravel` `PHP` `MySQL` `Blade`
+
+---
+
+### 🧬 Cognizance
+
+**COVID Testing & Vaccination Management System**
+
+A web application for managing testing, vaccination and related user records.
+
+**Built with**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+
+---
+
+### 🛋️ Oxford Sofas
+
+**Furniture Business Website**
+
+A responsive website focused on product presentation, modern interface design and customer experience.
+
+**Built with**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+---
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+🔵 **Laravel & PHP**
+
+  →  
+
+🟣 **MySQL & SQL**
+
+  →  
+
+🟠 **C#**
+
+  →  
+
+🟢 **ASP.NET Core**
+
+  →  
+
+🔷 **TypeScript**
+
+</p>
+
+---
+
+## 💡 What I Like Building
 
 ```text
-Web Development
-        │
-        ├── Frontend Development
-        ├── Laravel Applications
-        ├── PHP Backend Development
-        ├── Database-Driven Systems
-        ├── Authentication & Authorization
-        └── Admin & Management Panels
+╭────────────────────────────────────────────╮
+│                                            │
+│   🌐 Web Applications                      │
+│   ⚙️  Laravel & PHP Systems                │
+│   🗄️  Database-Driven Applications         │
+│   🔐 Authentication & Role Management      │
+│   📊 Admin & Management Dashboards         │
+│   🎨 Responsive User Interfaces            │
+│                                            │
+╰────────────────────────────────────────────╯
 ```
 
 ---
 
-## Development Focus
+## 📚 Learning & Growing
 
-I'm currently focused on building stronger foundations in:
+I'm continuously improving my skills in:
 
-* Laravel & PHP
-* MySQL & SQL
-* JavaScript
-* C#
-* ASP.NET Core
-* TypeScript
-* Git & version control
-* Software development practices
+`Laravel` · `PHP` · `MySQL` · `JavaScript` · `C#` · `ASP.NET Core` · `SQL` · `TypeScript` · `Git`
 
 ---
 
-## GitHub Stats
+## 🧑‍💻 Developer Mindset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://github.com/arifjunaid039">
-    <img src="https://img.shields.io/badge/GitHub-arifjunaid039-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+> **Build real projects. Learn from problems. Improve every version.**
 
 ---
 
 <p align="center">
-  <i>Building. Learning. Improving.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=footer" />
 </p>
