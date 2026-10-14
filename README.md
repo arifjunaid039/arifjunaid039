@@ -2,6 +2,12 @@
 
 ### 💻 Frontend & Laravel Developer
 
+<p align="center">
+  <a href="https://muhammad-junaid-portfolio-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -11,6 +17,14 @@
 I build **modern, practical and database-driven web applications**, focusing on clean interfaces, structured backend systems and real-world solutions.
 
 Currently expanding my development skills into **C# and ASP.NET Core**.
+
+---
+
+## 🌐 Visit My Portfolio
+
+Explore my projects, technical skills and web development journey.
+
+🔗 **Portfolio:** [muhammad-junaid-portfolio-ten.vercel.app](https://muhammad-junaid-portfolio-ten.vercel.app/)
 
 ---
 
@@ -37,25 +51,25 @@ Currently expanding my development skills into **C# and ASP.NET Core**.
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" alt="Frontend Technologies" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" alt="Backend Technologies" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies" />
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Development Tools" />
 </p>
 
 ---
@@ -70,12 +84,12 @@ A platform designed to help users report, discover and recover lost items throug
 
 **Features**
 
-* 🔐 Authentication
-* 📦 Lost & Found management
-* 📋 Claim workflow
-* 👤 User management
-* 🗄️ Database-driven architecture
-* 📊 Management dashboards
+- 🔐 Authentication
+- 📦 Lost & Found management
+- 📋 Claim workflow
+- 👤 User management
+- 🗄️ Database-driven architecture
+- 📊 Management dashboards
 
 **Built with**
 
@@ -91,13 +105,13 @@ A Laravel-based system designed around laboratory workflows, product testing and
 
 **Core areas**
 
-* 🧪 Product testing
-* 👨‍🔬 Tester panel
-* 👨‍💼 Admin panel
-* 🔐 Authentication
-* 👥 Role management
-* 📋 CRUD operations
-* 🗄️ Database management
+- 🧪 Product testing
+- 👨‍🔬 Tester panel
+- 👨‍💼 Admin panel
+- 🔐 Authentication
+- 👥 Role management
+- 📋 CRUD operations
+- 🗄️ Database management
 
 **Built with**
 
@@ -110,6 +124,13 @@ A Laravel-based system designed around laboratory workflows, product testing and
 **Student Financial Management Platform**
 
 A student-focused application designed around budgeting and managing financial activities.
+
+**Core features**
+
+- 💵 Income and expense tracking
+- 📊 Budget management
+- 🗂️ Category management
+- 🗄️ Database-driven financial records
 
 **Built with**
 
@@ -144,8 +165,8 @@ A responsive website focused on product presentation, modern interface design an
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" height="170" alt="Junaid's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Most Used Programming Languages" />
 </p>
 
 ---
@@ -153,25 +174,15 @@ A responsive website focused on product presentation, modern interface design an
 ## 🎯 Current Focus
 
 <p align="center">
-
-🔵 **Laravel & PHP**
-
-  →  
-
-🟣 **MySQL & SQL**
-
-  →  
-
-🟠 **C#**
-
-  →  
-
-🟢 **ASP.NET Core**
-
-  →  
-
-🔷 **TypeScript**
-
+  🔵 <strong>Laravel & PHP</strong>
+  &nbsp; → &nbsp;
+  🟣 <strong>MySQL & SQL</strong>
+  &nbsp; → &nbsp;
+  🟠 <strong>C#</strong>
+  &nbsp; → &nbsp;
+  🟢 <strong>ASP.NET Core</strong>
+  &nbsp; → &nbsp;
+  🔷 <strong>TypeScript</strong>
 </p>
 
 ---
@@ -207,6 +218,19 @@ I'm continuously improving my skills in:
 
 ---
 
+## 🤝 Let's Connect
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=footer" />
+  <a href="https://muhammad-junaid-portfolio-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/arifjunaid039" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=footer" alt="Decorative Footer" />
 </p>
