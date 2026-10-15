@@ -2,7 +2,7 @@
 
 # Junaid Arif
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+%26+Laravel+Developer;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+Bootstrap;Building+Database-Driven+Web+Applications;Currently+Learning+C%23+%26+ASP.NET+Core" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+%26+Laravel+Developer;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+Bootstrap;Building+Database-Driven+Web+Applications;Currently+Learning+C%23+%26+ASP.NET+Core" alt="Typing animation" />
 
 </div>
 
@@ -33,34 +33,34 @@ I build practical, database-driven web applications with clean interfaces and we
 
 **Languages**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![PHP](https://img.shields.io/badge/PHP-1E293B?style=flat-square&logo=php&logoColor=8892BF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-1E293B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1E293B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square)
 
 **Frameworks and Libraries**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-1E293B?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E293B?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-1E293B?style=flat-square&logo=jquery&logoColor=0769AD)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=00A5C9)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat)
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=38A3E8)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-1E293B?style=flat-square)
 
 **Currently Learning**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1E293B?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1E293B?style=flat-square&logo=dotnet&logoColor=7C5CFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=5B9BEA)
 
 ---
 
@@ -80,10 +80,10 @@ I build practical, database-driven web applications with clean interfaces and we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=818CF8&text_color=E2E8F0" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=E2E8F0" height="170" alt="Top Languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arifjunaid039&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arifjunaid039&hide_border=true&background=0D1117&ring=0EA5E9&fire=818CF8&currStreakNum=E2E8F0&currStreakLabel=0EA5E9&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,8 +93,8 @@ I build practical, database-driven web applications with clean interfaces and we
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-junaid-portfolio-ten.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifjunaid039)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-junaid-portfolio-ten.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifjunaid039)
 
 </div>
 
