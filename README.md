@@ -1,242 +1,83 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=header" alt="Header" />
-</p>
-
-<h1 align="center">
-  <a href="https://github.com/arifjunaid039">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=%F0%9F%91%8B+Hey%2C+I'm+Junaid+Arif;Frontend+%26+Laravel+Developer;Building+Database-Driven+Web+Apps;Currently+Learning+C%23+%26+ASP.NET+Core" alt="Typing animation: Hey, I'm Junaid Arif | Frontend & Laravel Developer" />
-  </a>
-</h1>
+# Junaid Arif
 
 <p align="center">
-  <a href="https://muhammad-junaid-portfolio-ten.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-I build **modern, practical and database-driven web applications**, focusing on clean interfaces, structured backend systems and real-world solutions.
-
-Currently expanding my development skills into **C# and ASP.NET Core**.
-
----
-
-## 🌐 Visit My Portfolio
-
-Explore my projects, technical skills and web development journey.
-
-🔗 **Portfolio:** [muhammad-junaid-portfolio-ten.vercel.app](https://muhammad-junaid-portfolio-ten.vercel.app/)
-
----
-
-## 🚀 About Me
-
-💻 **Frontend & Laravel Developer**
-
-🔧 Building practical web applications
-
-🗄️ Working with relational databases
-
-🧩 Interested in backend architecture and clean UI
-
-🧪 Building Laravel-based systems
-
-🌱 Currently learning **C# & ASP.NET Core**
-
-📚 Always learning and improving
-
----
-
-## 🛠️ Technologies & Tools
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" alt="Frontend Technologies" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" alt="Backend Technologies" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Development Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Frontend+%26+Laravel+Developer;Database-Driven+Web+Applications;Currently+Learning+C%23+%26+ASP.NET+Core" alt="Typing animation" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## About Me
 
-### 🔎 BackToYou
+I build practical, database-driven web applications with clean interfaces and structured backend systems.
 
-**Lost & Found Platform**
-
-A platform designed to help users report, discover and recover lost items through a structured digital workflow.
-
-**Features**
-
-- 🔐 Authentication
-- 📦 Lost & Found management
-- 📋 Claim workflow
-- 👤 User management
-- 🗄️ Database-driven architecture
-- 📊 Management dashboards
-
-**Built with**
-
-`Laravel` `PHP` `MySQL` `Bootstrap` `JavaScript`
+- Built **BackToYou**, a lost and found platform with a full claim workflow
+- Built **LabAutomation**, a laboratory management system with role-based panels
+- Built **CampusCoin**, a budgeting and expense tracking app for students
+- Currently learning **C#** and **ASP.NET Core**
 
 ---
 
-### 🧪 LabAutomation
+## Tech Stack
 
-**Laboratory Management & Product Testing System**
+**Languages**
 
-A Laravel-based system designed around laboratory workflows, product testing and role-based management.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
-**Core areas**
+**Frameworks**
 
-- 🧪 Product testing
-- 👨‍🔬 Tester panel
-- 👨‍💼 Admin panel
-- 🔐 Authentication
-- 👥 Role management
-- 📋 CRUD operations
-- 🗄️ Database management
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-**Built with**
+**Databases**
 
-`Laravel` `PHP` `MySQL` `Blade` `Bootstrap` `JavaScript`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+**Tools**
 
-### 💰 CampusCoin
-
-**Student Financial Management Platform**
-
-A student-focused application designed around budgeting and managing financial activities.
-
-**Core features**
-
-- 💵 Income and expense tracking
-- 📊 Budget management
-- 🗂️ Category management
-- 🗄️ Database-driven financial records
-
-**Built with**
-
-`Laravel` `PHP` `MySQL` `Blade`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat)
 
 ---
 
-### 🧬 Cognizance
+## Projects
 
-**COVID Testing & Vaccination Management System**
-
-A web application for managing testing, vaccination and related user records.
-
-**Built with**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-
----
-
-### 🛋️ Oxford Sofas
-
-**Furniture Business Website**
-
-A responsive website focused on product presentation, modern interface design and customer experience.
-
-**Built with**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| BackToYou | Lost and found platform with authentication, claim workflow and management dashboards | Laravel · PHP · MySQL · Bootstrap · JavaScript |
+| LabAutomation | Laboratory management and product testing system with tester and admin panels | Laravel · PHP · MySQL · Blade · Bootstrap |
+| CampusCoin | Student financial management with income, expense and budget tracking | Laravel · PHP · MySQL · Blade |
+| Cognizance | COVID testing and vaccination management system | PHP · MySQL · HTML · CSS · JavaScript · Bootstrap |
+| Oxford Sofas | Responsive furniture business website | HTML · CSS · JavaScript · Bootstrap |
 
 ---
 
-## 📈 GitHub Overview
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" height="170" alt="Junaid's GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Most Used Programming Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arifjunaid039&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjunaid039&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
-
----
-
-## 🎯 Current Focus
 
 <p align="center">
-  🔵 <strong>Laravel & PHP</strong>
-  &nbsp; → &nbsp;
-  🟣 <strong>MySQL & SQL</strong>
-  &nbsp; → &nbsp;
-  🟠 <strong>C#</strong>
-  &nbsp; → &nbsp;
-  🟢 <strong>ASP.NET Core</strong>
-  &nbsp; → &nbsp;
-  🔷 <strong>TypeScript</strong>
+  <img src="https://streak-stats.demolab.com?user=arifjunaid039&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 💡 What I Like Building
+## Connect
 
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🌐 Web Applications                      │
-│   ⚙️  Laravel & PHP Systems                │
-│   🗄️  Database-Driven Applications         │
-│   🔐 Authentication & Role Management      │
-│   📊 Admin & Management Dashboards         │
-│   🎨 Responsive User Interfaces            │
-│                                            │
-╰────────────────────────────────────────────╯
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-junaid-portfolio-ten.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifjunaid039)
 
 ---
 
-## 📚 Learning & Growing
-
-I'm continuously improving my skills in:
-
-`Laravel` · `PHP` · `MySQL` · `JavaScript` · `C#` · `ASP.NET Core` · `SQL` · `TypeScript` · `Git`
-
----
-
-## 🧑‍💻 Developer Mindset
-
-> **Build real projects. Learn from problems. Improve every version.**
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://muhammad-junaid-portfolio-ten.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/arifjunaid039" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=footer" alt="Decorative Footer" />
-</p>
+*"Build real projects. Learn from problems. Improve every version."*
