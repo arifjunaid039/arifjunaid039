@@ -2,7 +2,7 @@
 
 # Junaid Arif
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+%26+Laravel+Developer;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+Bootstrap;Building+Database-Driven+Web+Applications;Currently+Learning+C%23+%26+ASP.NET+Core" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Frontend+%26+Laravel+Developer;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+Bootstrap;Building+Database-Driven+Web+Applications;Currently+Learning+ASP.NET+Core+%26+AI-Assisted+Development" alt="Typing animation" />
 
 </div>
 
@@ -16,7 +16,7 @@ I build practical, database-driven web applications with clean interfaces and we
 - Built **LabAutomation**, a laboratory management system with separate tester and admin panels
 - Built **CampusCoin**, a budgeting app that tracks student income, expenses and categories
 - Comfortable with the full cycle: database design, backend logic, role management and responsive UI
-- Currently expanding into **C#** and **ASP.NET Core**
+- Currently learning **ASP.NET Core** and **AI-assisted full stack development**
 
 ---
 
@@ -33,34 +33,33 @@ I build practical, database-driven web applications with clean interfaces and we
 
 **Languages**
 
-![PHP](https://img.shields.io/badge/PHP-1E293B?style=flat-square&logo=php&logoColor=8892BF)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-1E293B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-1E293B?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square)
+PHP · JavaScript · TypeScript · C# · HTML · CSS
+
+<img src="https://skillicons.dev/icons?i=php,js,ts,cs,html,css" alt="Languages" />
 
 **Frameworks and Libraries**
 
-![Laravel](https://img.shields.io/badge/Laravel-1E293B?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1E293B?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![jQuery](https://img.shields.io/badge/jQuery-1E293B?style=flat-square&logo=jquery&logoColor=0769AD)
+Laravel · Bootstrap · jQuery
+
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,jquery" alt="Frameworks and Libraries" />
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=00A5C9)
+MySQL
+
+<img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=38A3E8)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-1E293B?style=flat-square)
+Git · GitHub · VS Code · Visual Studio
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools" />
 
 **Currently Learning**
 
-![C#](https://img.shields.io/badge/C%23-1E293B?style=flat-square)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1E293B?style=flat-square&logo=dotnet&logoColor=7C5CFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=5B9BEA)
+ASP.NET Core · AI-Assisted Full Stack Development
+
+<img src="https://skillicons.dev/icons?i=dotnet" alt="Currently Learning" />
 
 ---
 
