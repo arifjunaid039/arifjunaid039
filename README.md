@@ -1,6 +1,12 @@
-# 👋 Hey, I'm Junaid Arif
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=header" alt="Header" />
+</p>
 
-### 💻 Frontend & Laravel Developer
+<h1 align="center">
+  <a href="https://github.com/arifjunaid039">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=%F0%9F%91%8B+Hey%2C+I'm+Junaid+Arif;Frontend+%26+Laravel+Developer;Building+Database-Driven+Web+Apps;Currently+Learning+C%23+%26+ASP.NET+Core" alt="Typing animation: Hey, I'm Junaid Arif | Frontend & Laravel Developer" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://muhammad-junaid-portfolio-ten.vercel.app/" target="_blank">
